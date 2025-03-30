@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @girishkup
-- 👀 I’m interested in Devops related projects and tools
-- 🌱 I’m currently learning Devops
+- 👀 I’m interested in Devops
+- 🌱 I’m currently working as Devops Engineer
 - 💞️ I’m looking to collaborate on anything related to Devops
 - 📫 How to reach me, my Email id: girish.upadhyay1987@gmail.com
 
-<!---
-girishkup/girishkup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<!---"DevOps success goes beyond tools—it requires a cultural shift that fosters trust, transparency, and continuous improvement. By balancing automation with human collaboration, embracing Agile practices, and staying open to change, organizations can drive efficiency, reduce costs, and remain competitive in the ever-evolving software landscape."
 --->
